@@ -1,0 +1,50 @@
+<?php
+return [
+    'welcome' => 'مرحبا بك في',
+    'homepage' => 'الرئيسية',
+    'about_me'=>'نبذة عني',
+    'contact'=>'أتصل بنا',
+    'latest_articles'=>'أخر المقالات',
+    'read_full_article'=>'اقرأ المقال كاملاً',
+    'categories'=>'فئات',
+    'footer_desc'=>'تم التصميم والتطوير بواسطة',
+    'know_more'=>'معرفة المزيد',
+    'recommended'=>'موصى به',
+    'logout'=>'تسجيل الخروج',
+    'login'=>'تسجيل الدخول',
+    'register'=>'انشاء حساب',
+    'social_media_accounts'=>'حسابات وسائل التواصل الاجتماعي',
+    'share_the_post'=>'شارك المنشور',
+    'comments'=>'التعليقات',
+    'submit'=>'أرسل',
+    'to_add_comment'=>'لإضافة تعليق',
+    'please'=>'فضلا',
+    'contact_desc'=>'نحن هنا دائمًا لمساعدتك، لذا لا تتردد في الاتصال بنا عندما تحتاج إلى الدعم أو إذا كانت لديك أية أسئلة. رضاكم هو أولويتنا.',
+    'name'=>'الاسم',
+    'email'=>'البريد الإلكتروني',
+    'subject'=>'الموضوع',
+    'message_here'=>'اكتب رسالتك هنا',
+    'send_message'=>'إرسال رسالة',
+
+    'need_an_account'=>'أحتاج إلى حساب',
+    'username'=>'اسم المستخدم',
+    'password'=>'كلمة المرور',
+    'forgot_password'=>'نسيت كلمة المرور',
+    'remember_me'=>'ذكرني',
+    'or'=>'او',
+    'site'=>'موقع',
+    'enter_details_to_create_your_account'=>'أدخل التفاصيل لإنشاء حسابك',
+    'confirm_password'=>'تأكيد كلمة المرور',
+    'already_registered'=>'مسجل بالفعل',
+    'please_log_in_to_continue'=>'فضلا قم باتسجيل الدخول للمتابعة',
+    'title_message'=>'مرحبا بك',
+    'continue'=>'متابعة',
+    'please_log_in_to_continue_adding_comment'=>'فضلا قم باتسجيل الدخول للمتابعة في اضافة تعليق ',
+    'page_does_not_exist'=>'أُووبس! الصفحة التي تبحث عنها غير موجودة.',
+    'return_to_home'=>'العودة إلى الصفحة الرئيسية.',
+    'all_category_posts'=>'جميع المقالات'
+
+
+
+    // other strings...
+];
